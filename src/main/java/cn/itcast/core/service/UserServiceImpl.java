@@ -105,5 +105,7 @@ public class UserServiceImpl implements UserService {
     public static void main(String[] args) {
         long l = (long)(Math.random() * 1000000);
         System.out.println("=====" + l);
+        System.out.println("lalal");
     }
+
 }
